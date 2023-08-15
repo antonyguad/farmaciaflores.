@@ -1,0 +1,160 @@
+
+/* Barra de navegación */
+
+
+header {
+    background-color: #269aff;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+  }
+
+  header p {
+    margin: 0;
+    font-size: 35px;
+  }
+
+nav {
+    background-color: #269aff;
+    color: #fff;
+    padding: 25px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Encabezado */
+  header {
+    background-color:#269aff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Barra de navegación */
+nav {
+    background-color:   #f25413;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  nav {
+    background-color: #f25413;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    border-style: solid;
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin: 0 125px;
+  }
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  /* Contenido principal */
+  main {
+    padding: 40px;
+    text-align: center; /* Centrar el contenido */
+  }
+  
+  main h2 {
+    font-size: 40px; /* Ajusta el tamaño del título */
+    margin-top: 25;
+  }
+  
+  main h3 {
+    font-size: 30px; /* Ajusta el tamaño de los subtítulos */
+  }
+  
+  main p {
+    font-size: 25px ;
+    line-height: 3.0em;
+  }
+  
+
+  main ul {
+    list-style: none;
+    text-align: center; /* Alinear lista a la izquierda */
+    font-size: 25px;
+  }
+  
+  /* Aside */
+  aside {
+    padding: 25px;
+    text-align: center; /* Centrar el contenido */
+  }
+  aside p {
+    font-size:  25px;
+    text-align: center; /* Centrar el contenido */
+  }
+  aside h3 {
+    font-size: 30px; /* Ajusta el tamaño del título */
+  }
+  
+  /* Pie de página */
+  footer {
+    background-color: #269aff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
